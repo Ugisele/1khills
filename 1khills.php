@@ -26,9 +26,8 @@
 
     <link rel="stylesheet" href="assets/css/lightbox.css">
  
-
-
 </head>
+ 
 <body>
 
     <div id="preloader">
